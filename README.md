@@ -1,6 +1,6 @@
 # Quizz de psicologia
 
-Este projeto é só uma ideia inciail para um site que quero montar com testes psicológicos, como o teste de depressão de Beck, teste de TDAH e teste de ansiedade! 
+Este projeto é só uma ideia incial para um site que quero montar com testes psicológicos, como o teste de depressão de Beck, teste de TDAH e teste de ansiedade! 
 
 Para instalar e executar o programa, basta realizar um clone do projeto com o comando:
 
